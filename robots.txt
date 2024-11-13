@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: https://mymobilitymap.de/impressum.html
+Disallow: https://mymobilitymap.de/datenschutz.html
